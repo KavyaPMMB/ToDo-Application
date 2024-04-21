@@ -1,0 +1,65 @@
+button.cta1 {
+    background: black;
+    color: antiquewhite;
+    width: 292px;
+    height: 50px;
+    border-radius: 30px;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.container-main {
+    background:black;
+    height: 700px;
+}
+
+  .container-main h2 {
+    font-size: 58px;
+    font-family: fantasy;
+    color: aliceblue;
+    padding-top: 60px;
+    text-align: center;
+    
+}
+
+.container-main h2:hover{
+    color:lightslategray;
+}
+
+
+button.cta1 {
+    background:whitesmoke;
+    color: black;
+    width: 292px;
+    height: 56px;
+    border-radius: 30px;
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    left: 611px;
+    margin-top: 16px;
+    border: 1px solid;
+    cursor:pointer;
+}
+
+button.cta1:hover{
+    background:yellow;
+}
+
+
+ul.pagination.justify-content-center.paginationBttns {
+    font-size: 31px;
+    font-family: math;
+    color: antiquewhite;
+    letter-spacing: 15px;
+}
+
+
+
+a {
+    color:white;
+    text-decoration:none;
+    
+}
